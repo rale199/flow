@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544735177243",
+    "firebase_url": "https://flow-3c703.firebaseio.com",
+    "project_id": "flow-3c703",
+    "storage_bucket": "flow-3c703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544735177243:android:49045a23e7273552",
+        "android_client_info": {
+          "package_name": "comm.idea.flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544735177243-a2bieu493jee9v196p2394aa5a9k9gni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comm.idea.flow",
+            "certificate_hash": "91df36848c4c66bda9c01e02e4cd6508c7539dfd"
+          }
+        },
+        {
+          "client_id": "544735177243-eu6fkm3vkomdl1sve2r5u62cp7b27h1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATV3pCocvOvg-n1lgJNeNIUvxsybVj-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544735177243-eu6fkm3vkomdl1sve2r5u62cp7b27h1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
