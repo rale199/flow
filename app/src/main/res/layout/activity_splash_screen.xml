@@ -7,26 +7,30 @@
     android:background="#161516"
     tools:context=".SplashScreen">
 
-    <EditText
-        android:id="@+id/editText"
-        android:layout_width="279dp"
-        android:layout_height="109dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Name"
-        tools:layout_editor_absoluteX="66dp"
-        tools:layout_editor_absoluteY="275dp" />
-
     <Button
         android:id="@+id/button"
         android:layout_width="283dp"
         android:layout_height="77dp"
         android:background="#242324"
-        android:fontFamily="berlin"
+        android:fontFamily="@font/baumans"
         android:text="Button"
         android:textColor="#F3EEF3"
+        android:textSize="18sp"
         tools:layout_editor_absoluteX="71dp"
         tools:layout_editor_absoluteY="587dp"
         tools:text="Start your flow ~~>" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="94dp"
+        android:layout_height="100dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:singleLine="false"
+        android:text="flow"
+        android:textColor="#C50CAC"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="158dp"
+        tools:layout_editor_absoluteY="315dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
